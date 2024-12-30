@@ -1,0 +1,5 @@
+her değişiklik yaptığımızda sunucuyu aç kapa yapıyoruz bunu yapmamak için projeye npm install --save-dev nodemon kuruyoruz 
+
+
+
+
